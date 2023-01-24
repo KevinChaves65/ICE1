@@ -6,6 +6,7 @@ package student;
 
 /**
  *
+ Jan 24 2023
  * @author kevinchaves
  */
 public class Student {
